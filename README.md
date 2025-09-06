@@ -12,10 +12,10 @@ dsb img
 ---
 
 ## Project Structure
-Pharma-Sales-Analysis/
-`│── data/`
-`│   ├── salesdaily.csv`
-`│   ├── saleshourly.csv`
+```Pharma-Sales-Analysis/
+│── data/
+│   ├── salesdaily.csv
+│   ├── saleshourly.csv
 │   ├── salesmonthly.csv
 │   └── salesweekly.csv
 │
@@ -27,7 +27,7 @@ Pharma-Sales-Analysis/
 │   ├── BRD.pdf
 │   └── FRD.pdf
 │
-│── README.md
+│── README.md```
 ---
 
 ## Objective
