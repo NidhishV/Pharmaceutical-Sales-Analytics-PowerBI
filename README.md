@@ -1,1 +1,70 @@
-# Pharmaceutical-Sales-Analytics-PowerBI
+# Pharmaceutical Sales Analysis
+
+img
+---
+
+## Project Overview
+
+This project analyzes **pharmaceutical sales data** across different time granularities (daily, weekly, monthly, hourly) to uncover business insights and support **data-driven decision-making**. The analysis is performed using **Power BI**, providing an interactive view of sales performance, trends, and growth patterns.  
+
+dsb img
+
+---
+
+## Project Structure
+
+
+---
+
+## Objective
+
+- Analyze pharmaceutical sales data and identify trends  
+- Design an interactive Power BI dashboard highlighting:
+  - Overall sales performance
+  - Time-based trends (daily, weekly, monthly, hourly)
+  - Top products/drugs by revenue
+  - Growth patterns for business planning
+
+---
+
+## Tools & Technologies
+
+- **Power BI** → Dashboard design & visualization  
+- **Excel/CSV** → Data storage and structure  
+- **DAX (Data Analysis Expressions)** → Measures and calculated fields  
+
+---
+
+## Dashboard Highlights
+
+- **Total Sales KPIs** with drill-down from monthly to hourly trends  
+- **Top Products/Drugs** by revenue  
+- **Sales Growth Analysis** (YoY, WoW, MoM comparisons)  
+- **Regional/Market-Level Performance**  
+- **Interactive filters and slicers** for flexible analysis  
+
+---
+
+## Deliverables
+
+- **Business Requirement Document (BRD)**  
+- **Functional Requirement Document (FRD)**  
+- **Executive Summary & Full Project Report**  
+- **Power BI Dashboard Snapshot**  
+
+---
+
+## Outcomes
+
+- Identified **peak sales periods** across different timescales  
+- Highlighted **top-performing products** driving revenue  
+- Provided **actionable insights** for sales optimization & inventory planning  
+- Delivered a **complete business analysis case study**, ready for real-world applications  
+
+---
+
+## How to Use
+
+1. **Data**: Place the CSV files in the `data/` folder.  
+2. **Power BI**: Load the data and create visuals using provided measures.  
+3. **Analysis**: Interactively explore KPIs, trends, and product insights.  
