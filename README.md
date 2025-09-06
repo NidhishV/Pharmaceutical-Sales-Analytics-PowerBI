@@ -12,7 +12,8 @@ dsb img
 ---
 
 ## Project Structure
-Pharma-Sales-Analysis/
+
+```Pharma-Sales-Analysis/
 |– data/
 |   |– salesdaily.csv
 |   |– saleshourly.csv
@@ -28,7 +29,7 @@ Pharma-Sales-Analysis/
 |   |– FRD.pdf
 |
 |– README.md
-
+```
 
 --
 
