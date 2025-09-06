@@ -13,22 +13,21 @@ dsb img
 
 ## Project Structure
 
+## Project Structure
+
 Pharma-Sales-Analysis/
-|-- data/
-|   |-- salesdaily.csv
-|   |-- saleshourly.csv
-|   |-- salesmonthly.csv
-|   |-- salesweekly.csv
-|
-|-- dashboards/
-|   |-- pharma_sales_dashboard.png
-|
-|-- reports/
-|   |-- Pharma_Sales_Analysis_Report.pdf
-|   |-- BRD.pdf
-|   |-- FRD.pdf
-|
-|-- README.md
+├── data/
+│   ├── salesdaily.csv
+│   ├── saleshourly.csv
+│   ├── salesmonthly.csv
+│   └── salesweekly.csv
+├── dashboards/
+│   └── pharma_sales_dashboard.png
+├── reports/
+│   ├── Pharma_Sales_Analysis_Report.pdf
+│   ├── BRD.pdf
+│   └── FRD.pdf
+└── README.md
 
 --
 
