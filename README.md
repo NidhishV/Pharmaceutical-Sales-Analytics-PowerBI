@@ -13,7 +13,7 @@ This project analyzes **pharmaceutical sales data** across different time granul
 
 ## Project Structure
 
-```Pharma-Sales-Analysis/
+```Pharmaceutical-Sales-Analysis/
 |– data/
 |   |– salesdaily.csv
 |   |– saleshourly.csv
@@ -21,7 +21,8 @@ This project analyzes **pharmaceutical sales data** across different time granul
 |   |– salesweekly.csv
 |
 |– dashboards/
-|   |– pharma_sales_dashboard.png
+|   |– Pharmaceutical_Sales_Analysis_Dashboard.pbix
+|   |– Dashboard_snapshot
 |
 |– reports/
 |   |– Pharma_Sales_Analysis_Report.pdf
