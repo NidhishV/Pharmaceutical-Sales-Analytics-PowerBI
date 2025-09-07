@@ -7,7 +7,7 @@ img
 
 This project analyzes **pharmaceutical sales data** across different time granularities (daily, weekly, monthly, hourly) to uncover business insights and support **data-driven decision-making**. The analysis is performed using **Power BI**, providing an interactive view of sales performance, trends, and growth patterns.  
 
-dsb img
+[![Dashboard-snapshot.png](https://i.postimg.cc/3J10bnD6/Dashboard-snapshot.png)](https://postimg.cc/PPLqCbyz)
 
 ---
 
